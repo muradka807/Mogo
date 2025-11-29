@@ -1,0 +1,2 @@
+# Mogo
+Project for portfolio
